@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qEC/KBbzpm+QGnRFohEqAzFUsfl3C16LqalzUjmDqNlj0q+kwdd/PY4lfloSIVAnZ7oVheEOXIYAJxy5gPVLgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\workspace\\FortuneTeller\\FortuneTeller\\FortuneTeller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\fizzler\\1.2.0\\fizzler.1.2.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\fizzler.systems.htmlagilitypack\\1.2.1\\fizzler.systems.htmlagilitypack.1.2.1.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\htmlagilitypack\\1.11.53\\htmlagilitypack.1.11.53.nupkg.sha512"
+  ],
+  "logs": []
+}
